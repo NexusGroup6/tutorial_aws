@@ -62,6 +62,9 @@
 .conteudo4 {/*Parte4*/
     text-align: center;/*Alinhamento ao centro*/
 }
+.conteudo4 img {/*Diretamente imagens*/
+    border-radius: 15px;/*Bordas img's*/
+}
 button {/*Botão*/
     padding: 15px;/*Distância*/
     border-radius: 15px;/*Bordas*/

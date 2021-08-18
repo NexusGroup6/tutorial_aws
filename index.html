@@ -108,12 +108,27 @@
             <h1 class="texto2">- Agora somente selecione a opção "Open".</h1>
             <img src="putty_tutor_imgs/putty_open.PNG" alt=""><br><br>
             <h1 class="texto2">- Dentro da máquina virtual indique o nome da máquina. No caso abaixo utilizamos ubuntu.</h1>
+            <h1 class="texto2">Atenção após este processo você irá ter que utilizar os comandos: "sudo su", "apt update", "apt upgrade" e "apt install apache2". Na respectiva ordem apresentada.</h1>
             <img src="putty_tutor_imgs/putty_loginubuntu.PNG" alt="">         
             <h1 class="texto2">- Pronto sua máquina da AWS está rodando em seu computador.</h1>
         </div>
 
-        <div class="parte4">
+        <div class="conteudo4">
             <h1 id="parte4" class="subtitulo">Acessando WinSCP</h1>
+            <h1 class="texto2">- Abra o WinSCP e insira o IP na opção Host e nome da máquina utilizada em Usuário (ex: ubuntu). Após clique em avançado.</h1>
+            <img src="winscpimg/1.PNG" alt=""><br><br>
+            <h1 class="texto2">- Agora selecione no menu lateral "SSH" e após "Autenticação". Agora em "Arquivo de Chave privada:" selecione a chave ppk da máquina. E clique em Ok.</h1>
+            <img src="winscpimg/2.PNG" alt=""><br><br>
+            <h1 class="texto2">- Selecione Sim para confirmar o acesso.</h1>
+            <img src="winscpimg/3.PNG" alt=""><br><br>
+            <h1 class="texto2">- Agora você irá ter que utilizar o comando sudo su na máquina virtual.</h1>
+            <img src="winscpimg/4.PNG" alt=""><br><br>
+            <h1 class="texto2">- E após utilize o comando "chown -R ubuntu:ubuntu /var/www/html".</h1>
+            <img src="winscpimg/5.PNG" alt=""><br><br>
+            <h1 class="texto2">- Volte ao WinSCP e estará pronto para adicionar os arquivos na pasta raiz de hospedagem.</h1>
+            <h1 class="texto2">Atenção: você deverá adicionar os arquivos e pastas do seu site dentro da pasta "html".</h1>
+            <h1 class="texto2">E pronto! Seu site já esta disponível dentro do seu servidor da AWS na internet. (Acesse-o pelo Ip da máquina de qualquer lugar).</h1>
+            <img id="ultimaimg" src="winscpimg/6.PNG" alt="">
         </div>
     </main>
 
