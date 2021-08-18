@@ -9,7 +9,15 @@
 
 
 /*Main*/
-.textoinstalador {/*Texto conteúdo*/
+.texto {/*Texto conteúdo*/
+    font-family: 'Courier New', Courier, monospace;/*Fonte*/
+    font-size: 25px;/*Tamanho fonte*/
+    padding: 30px;/*Distância*/
+    color: white;/*Cor fonte*/
+    text-align: justify;/*Alinhamento*/
+    padding: 100px;/*Distância*/
+}
+.texto2 {/*Texto conteúdo*/
     font-family: 'Courier New', Courier, monospace;/*Fonte*/
     font-size: 25px;/*Tamanho fonte*/
     padding: 30px;/*Distância*/
@@ -24,14 +32,7 @@
 }
 .linkgit:hover {/*Hover do link instalador*/
     cursor: pointer;/*Cursor sobre*/
-    color: pink;/*Cor*/
-}
-.instalandogit {/*Img*/
-    text-align: center;/*Alinhamento*/
-}
-.instalandogit img {/*Img diretamente*/
-    border-radius: 15px;/*Bordas redondas*/
-    padding-bottom: 60px;/*Padding abaixo*/
+    color: orange;/*Cor*/
 }
 .subtitulo {/*Subtitulos*/
     text-align: right;/*Alinhamento a direita*/
@@ -45,14 +46,6 @@
 }
 .conteudo1 img {/*Diretamente imagens*/
     border-radius: 20px;/*Bordas img's*/
-}
-.texto {/*Texto conteúdo*/
-    font-family: 'Courier New', Courier, monospace;/*Fonte*/
-    font-size: 25px;/*Tamanho fonte*/
-    padding: 30px;/*Distância*/
-    color: white;/*Cor fonte*/
-    text-align: justify;/*Alinhamento*/
-    padding: 100px;/*Distância*/
 }
 .conteudo2 {/*Parte2*/
     text-align: center;/*Alinhamento ao centro*/
@@ -69,13 +62,19 @@
 .conteudo4 {/*Parte4*/
     text-align: center;/*Alinhamento ao centro*/
 }
-.conteudo4 iframe {/*Diretamente imagens*/
-    border-radius: 15px;/*Bordas img's*/
-    padding-bottom: 60px;/*Distância abaixo*/
-}
 button {/*Botão*/
     padding: 15px;/*Distância*/
     border-radius: 15px;/*Bordas*/
     outline: none;/*Linha de fora*/
     border: none;/*Bordas nula*/
+}
+#imagens {/*Tag corrige proporção*/
+    width: 1200px;
+    height: 600px;
+}
+#ultimaimg {/*Corrigir distância*/
+    padding-bottom: 40px;
+}
+#primeiraimg {/*Corrigir distância*/
+    padding-top: 40px;
 }

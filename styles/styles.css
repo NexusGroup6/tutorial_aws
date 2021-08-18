@@ -7,7 +7,7 @@
 
 /*Body*/
 body {/*Fundo site*/
-    background-image: linear-gradient(90deg, #DA22FF, #9733ee);/*Cor fundo*/
+    background-image: linear-gradient(to right, rgb(240, 116, 34), rgb(240, 123, 40), rgb(241, 130, 45), rgb(241, 137, 51), rgb(242, 144, 56), rgb(242, 151, 62), rgb(243, 158, 67), rgb(243, 165, 73), rgb(244, 172, 78), rgb(244, 179, 84), rgb(245, 186, 89), rgb(245, 193, 95));/*Cor fundo*/
 }
 
 
