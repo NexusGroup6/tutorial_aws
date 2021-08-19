@@ -18,7 +18,7 @@ Tabela de conteúdos
 <h2>Features</h2>
 
 - [x] Menu Lateral 
-- [] Video Tutorial  
+ 
 ### Pré-requisitos
 
 Antes de começar, você irá precisar ter instalado em sua máquina a seguinte ferramenta:
