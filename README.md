@@ -18,7 +18,7 @@ Tabela de conteúdos
 <h2>Features</h2>
 
 - [x] Menu Lateral 
- 
+
 ### Pré-requisitos
 
 Antes de começar, você irá precisar ter instalado em sua máquina a seguinte ferramenta:
@@ -36,8 +36,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <p> Menu lateral usado no site </p>
 <h1 align="center">
-  <img alt="imagem" title="#imagem" src="print_site_md/menulateral.PNG" />
+  <img alt="imagem" title="#imagem" src="print_site_md/menu_lateral.PNG" />
 </h1>
+
 
 <p> Pagina Inicial/Criação AwS </p>
 <h1 align="center">
