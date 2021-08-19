@@ -36,7 +36,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <p> Menu lateral usado no site </p>
 <h1 align="center">
-  <img alt="imagem" title="#imagem" src="print_site_md/menulateral.png" />
+  <img alt="imagem" title="#imagem" src="print_site_md/menulateral.PNG" />
 </h1>
 
 <p> Pagina Inicial/Criação AwS </p>
