@@ -36,28 +36,28 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <p> Menu lateral usado no site </p>
 <h1 align="center">
-  <img alt="imagem" title="#imagem" src="print_site_md/menu_lateral.PNG" />
+  <img alt="imagem" title="#imagem" src="print_site_md/menu_lateral.png" />
 </h1>
 
 
 <p> Pagina Inicial/Criação AwS </p>
 <h1 align="center">
-  <img alt="imagem" title="#imagem" src="print_site_md/pagina_inicial.PNG" />
+  <img alt="imagem" title="#imagem" src="print_site_md/pagina_inicial.png" />
 </h1>
 
 <p> Instalação Putty</p>
 <h1 align="center">
-  <img alt="imagem" title="#imagem" src="print_site_md/instalacao_putty.PNG" />
+  <img alt="imagem" title="#imagem" src="print_site_md/instalacao_putty.png" />
 </h1>
 
 <p> Acessando a Maquina AwS via Putty </p>
 <h1 align="center">
-  <img alt="imagem" title="#imagem" src="print_site_md/acessar_via_putty.PNG" />
+  <img alt="imagem" title="#imagem" src="print_site_md/acessar_via_putty.png" />
 </h1>
 
 <p> Instalando o WinSCP </p>
 <h1 align="center">
-  <img alt="imagem" title="#imagem" src="print_site_md/winSCP.PNG" />
+  <img alt="imagem" title="#imagem" src="print_site_md/winSCP.png" />
 </h1>
 
 
